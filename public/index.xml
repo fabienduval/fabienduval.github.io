@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabien&#39;s blog</title>
+    <link>https://fabien.duval.bzh/</link>
+    <description>Recent content on Fabien&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 22:00:00 +0200</lastBuildDate><atom:link href="https://fabien.duval.bzh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fabien s&#39;amuse</title>
+      <link>https://fabien.duval.bzh/posts/init/</link>
+      <pubDate>Tue, 21 Jun 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://fabien.duval.bzh/posts/init/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fabien.duval.bzh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabien.duval.bzh/about/</guid>
+      <description>This is a page about me </description>
+      <content>&lt;h1 id=&#34;this-is-a-page-about-me&#34;&gt;This is a page about me&lt;/h1&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
