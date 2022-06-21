@@ -1,8 +1,9 @@
 baseURL = 'https://fabien.duval.bzh'
 languageCode = 'en-us'
-title = 'Fabien deploys a site with Hugo'
+title = "Fabien's blog"
 theme = "terminal"
 paginate = 5
+publishDir = "docs"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -22,7 +23,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -74,11 +75,11 @@ paginate = 5
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
+    missingContentMessage = "Dead link..."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Fabien's blog"
       logoHomeLink = "/"
 
     [languages.en.menu]
